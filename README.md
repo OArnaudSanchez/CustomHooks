@@ -1,8 +1,8 @@
-# Notas del Repositorio
+# Repository Notes
 
-Este repositorio contiene varios custom hooks hechos con react, que pueden servir para trabajar 
-con formularios, contadores, peticiones http etc.
+This repository contains several custom hooks made with react, which can be used to work
+with forms, counters, http requests etc.
 
-Ademas tendremos helpers y funciones que podremos reutilizar en futuros proyectos.
-Como por ejemplo la configuracion de los requests de axios, este repositorio lo utilizaremos 
-para alojar todas las funcionalidades reutilizables.
+We'll also have helpers and functions that we can reuse in future projects.
+like for example the configuration of axios http requests, we'll use this repository
+to host all reusable functionalities.
